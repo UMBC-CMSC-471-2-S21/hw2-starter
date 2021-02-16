@@ -5,7 +5,7 @@ from dcsolve import dcsolver
 
 word_pairs = [('dog', 'cat'), ('kit', 'zap'), ('ask', 'why'),
               ('face', 'pill'), ('oozy', 'aqua'), ('icky', 'poop'),
-              ('quiz', 'kook'), ('quad','zoom')('icky', 'murk')]
+              ('quiz', 'kook'), ('quad','zoom'), ('icky', 'murk')]
 
 costs = ['steps', 'scrabble', 'frequency']
 
